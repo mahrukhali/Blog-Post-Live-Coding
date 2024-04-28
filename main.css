@@ -1,0 +1,16 @@
+.container {
+  margin-left: 70px;
+}
+.center {
+  margin-left: 500px;
+}
+.text {
+  margin-left: 100px;
+  background-color: rgb(219, 213, 213);
+  margin-right: 100px;
+  padding: 10px;
+}
+
+.li {
+  color: blue;
+}
